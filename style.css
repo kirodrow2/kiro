@@ -1,0 +1,25 @@
+p {
+    margin-bottom: 12px;
+}
+h1 h2 h3 {
+    font-weight: 400;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 32px;
+    border-bottom-width: 1px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: gray; /* Цвет линии внизу */
+}
+h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+
+}
+#footer {
+    margin-top: 64px;
+    text-align: center;
+}
